@@ -1,0 +1,5 @@
+.vscode
+*.o
+*.rdr
+my_radar
+gmon.out
