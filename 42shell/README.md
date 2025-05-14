@@ -1,12 +1,11 @@
----
-
 ## Description
 
-**42sh** is a command‐line interpreter developed as part of the Epitech curriculum.
+**42sh** is a command-line interpreter developed as part of the Epitech curriculum.
 It replicates the behavior of a basic Unix shell, inspired by TCSH.
-The project includes support for built‐ins, line-editing, redirections, pipes, command history, and aliases.
+The project includes support for built-ins, line editing, redirections, pipes, command history, and aliases.
 
 ---
+
 
 ## Features
 
