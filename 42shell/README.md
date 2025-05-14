@@ -1,19 +1,5 @@
 ---
 
-## Table of Contents
-
-- [Description](#description)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation & Compilation](#installation--compilation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Makefile](#makefile)
-- [Authors](#authors)
-- [License](#license)
-
----
-
 ## Description
 
 **42sh** is a command‐line interpreter developed as part of the Epitech curriculum.
