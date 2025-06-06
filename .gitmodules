@@ -1,3 +1,6 @@
 [submodule "Extinction"]
 	path = Extinction
 	url = git@github.com:AdryzR/L-Extinction.git
+[submodule "42sh"]
+	path = 42sh
+	url = git@github.com:AdryzR/42sh.git
